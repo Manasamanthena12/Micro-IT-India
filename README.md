@@ -42,4 +42,5 @@ requirements.txt: A list of dependencies needed to run the app (e.g., Streamlit,
 Try the App Online 🌐
 
 You can use the app right now on Streamlit Cloud:
+
 Access the app here: Movie Review Sentiment Analysis
