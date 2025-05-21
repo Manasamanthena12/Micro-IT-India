@@ -43,4 +43,4 @@ Try the App Online 🌐
 
 You can use the app right now on Streamlit Cloud:
 
-Access the app here: Movie Review Sentiment Analysis
+Access the app here: https://sentiment-analysis-3.streamlit.app/
