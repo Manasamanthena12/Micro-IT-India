@@ -1,5 +1,3 @@
-# Micro-IT-India
-
 🎬 Movie Review Sentiment Analysis
 
 Welcome to the Movie Review Sentiment Analysis app! This web app uses AI to analyze movie reviews and predict their sentiment—whether they’re Positive 😊, Negative 😔, or Neutral 😐—with an impressive 88.71% accuracy. Built as a personal project to explore natural language processing, this app offers a fun and insightful way to understand the emotions behind movie reviews. Launched on May 21, 2025, at 09:04 PM IST, it’s now live for everyone to try!
@@ -15,7 +13,6 @@ The app is hosted online, so you can access it anytime, anywhere with an interne
 Step Into the Cinema of Sentiments! 🍿
 
 Ready to uncover the emotions behind your movie reviews? Click the button below to experience the app live—lights, camera, action!🎥 Discover the Sentiment Now! 🎥
-
 Cool Things About the App ✨
 
 Predicts three sentiments: Positive 😊, Negative 😔, and Neutral 😐, using a Logistic Regression model trained on the IMDb dataset.
@@ -44,4 +41,5 @@ requirements.txt: A list of dependencies needed to run the app (e.g., Streamlit,
 
 Try the App Online 🌐
 
-You can use the app right now on Streamlit Cloud:Access the app here: Movie Review Sentiment Analysis
+You can use the app right now on Streamlit Cloud:
+Access the app here: Movie Review Sentiment Analysis
